@@ -35,7 +35,7 @@ main {
     color: white;
 }
 .icon {
-    background-image:url(../download.png);
+    background-image:url(../images/download.png);
     background-position:center;
     background-size:100% 100%;
     background-repeat: no-repeat;
@@ -46,7 +46,7 @@ main {
     cursor:pointer
 }
 .open {
-    background-image: url(../secondImg.png);
+    background-image: url(../images/secondImg.png);
     background-position:center;
     background-size:100% 100%;
     background-repeat: no-repeat;

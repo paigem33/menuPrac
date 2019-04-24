@@ -8,7 +8,7 @@
     <script>
         $(document).ready(function(){
             $('.icon').click(function(){
-                $('nav').slideToggle('slow');
+                $('nav').stop().slideToggle('slow');
                 $('.icon').toggleClass('open');
             });
         });
